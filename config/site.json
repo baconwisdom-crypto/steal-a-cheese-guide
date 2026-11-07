@@ -14,6 +14,27 @@
       "www.stealacheese.wiki"
     ],
     "enableAt": null,
-    "units": {}
+    "units": {
+      "native": {
+        "scriptUrl": "https://bicea.org/21/9a24a59429ac19b1ee016f12967a642c",
+        "containerId": "container-9a24a59429ac19b1ee016f12967a642c"
+      },
+      "rectangle": {
+        "scriptUrl": "https://bicea.org/22/ac9866a0cf4629595f103cca4662372b",
+        "key": "ac9866a0cf4629595f103cca4662372b"
+      },
+      "banner728": {
+        "scriptUrl": "https://bicea.org/22/b245bfa2904bcbeab5bf81b2d2305284",
+        "key": "b245bfa2904bcbeab5bf81b2d2305284"
+      },
+      "banner320": {
+        "scriptUrl": "https://bicea.org/22/3096058760b2894463bbe523fc254a48",
+        "key": "3096058760b2894463bbe523fc254a48"
+      },
+      "rail": {
+        "scriptUrl": "https://bicea.org/22/76ba6076707c39eea23bb69b7e0adaa9",
+        "key": "76ba6076707c39eea23bb69b7e0adaa9"
+      }
+    }
   }
 }
