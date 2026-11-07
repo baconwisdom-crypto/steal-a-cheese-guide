@@ -1,0 +1,1 @@
+{"name":"steal-a-cheese-guide","version":"1.0.0","private":true,"scripts":{"build":"node framework/build.cjs","check:video-evidence":"node framework/video-check.cjs","verify":"npm run build && npm run check:video-evidence && node --test framework/ads.test.cjs"}}

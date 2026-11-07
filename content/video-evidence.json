@@ -1,0 +1,93 @@
+[
+  {
+    "asset": "public/shot-carry.webp",
+    "sourceId": "video-beginner",
+    "url": "https://www.youtube.com/watch?v=b-zOCZsphDo&t=50s",
+    "timecode": "00:00:50",
+    "text_block_id": "beginner:steal",
+    "fact_ids": [
+      "VF01"
+    ],
+    "shot_ids": [
+      "SHOT-carry"
+    ]
+  },
+  {
+    "asset": "public/shot-place.webp",
+    "sourceId": "video-beginner",
+    "url": "https://www.youtube.com/watch?v=b-zOCZsphDo&t=118s",
+    "timecode": "00:01:58",
+    "text_block_id": "ripening:place",
+    "fact_ids": [
+      "VF02"
+    ],
+    "shot_ids": [
+      "SHOT-place"
+    ]
+  },
+  {
+    "asset": "public/shot-open.webp",
+    "sourceId": "video-beginner",
+    "url": "https://www.youtube.com/watch?v=b-zOCZsphDo&t=270s",
+    "timecode": "00:04:30",
+    "text_block_id": "ripening:finish",
+    "fact_ids": [
+      "VF03"
+    ],
+    "shot_ids": [
+      "SHOT-open"
+    ]
+  },
+  {
+    "asset": "public/shot-income.webp",
+    "sourceId": "video-beginner",
+    "url": "https://www.youtube.com/watch?v=b-zOCZsphDo&t=288s",
+    "timecode": "00:04:48",
+    "text_block_id": "mice:collect",
+    "fact_ids": [
+      "VF05"
+    ],
+    "shot_ids": [
+      "SHOT-income"
+    ]
+  },
+  {
+    "asset": "public/shot-trails.webp",
+    "sourceId": "video-beginner",
+    "url": "https://www.youtube.com/watch?v=b-zOCZsphDo&t=310s",
+    "timecode": "00:05:10",
+    "text_block_id": "speed:trails",
+    "fact_ids": [
+      "VF06"
+    ],
+    "shot_ids": [
+      "SHOT-trails"
+    ]
+  },
+  {
+    "asset": "public/shot-training.webp",
+    "sourceId": "video-training",
+    "url": "https://medal.tv/games/roblox/clips/nKIWiwgwnQeiHDV_W?t=20",
+    "timecode": "00:00:20",
+    "text_block_id": "speed:wheel",
+    "fact_ids": [
+      "VF08"
+    ],
+    "shot_ids": [
+      "SHOT-training"
+    ]
+  },
+  {
+    "asset": "public/shot-pantry.webp",
+    "sourceId": "video-beginner",
+    "url": "https://www.youtube.com/watch?v=b-zOCZsphDo&t=376s",
+    "timecode": "00:06:16",
+    "text_block_id": "areas:levels",
+    "fact_ids": [
+      "VF09"
+    ],
+    "shot_ids": [
+      "SHOT-pantry"
+    ]
+  }
+]

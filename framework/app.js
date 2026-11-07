@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-search]').forEach(input=>input.addEventListener('input',()=>{const q=input.value.toLowerCase().trim();document.querySelectorAll('[data-card]').forEach(card=>card.hidden=!card.textContent.toLowerCase().includes(q))}));if(window.SiteAds)SiteAds.start(window.SITE_CONFIG.monetization);

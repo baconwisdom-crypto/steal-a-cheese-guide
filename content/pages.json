@@ -1,0 +1,539 @@
+[
+  {
+    "id": "beginner",
+    "path": "/guides/beginner-guide/",
+    "title": "Steal a Cheese Beginner Guide: Your First Mouse",
+    "description": "Follow your first cheese from the cats to your hotbar, ripening slot and mouse crew.",
+    "icon": "🐭",
+    "sections": [
+      {
+        "id": "steal",
+        "title": "1. Pick up cheese and follow RUN HOME",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Steal a Cheese [From Cats] sends your mouse into cat territory to recover cheese. The developer describes sneaking past sleeping cats and racing back to the mousehole. Begin with a nearby cheese and a return route you can recognize before reaching for a more distant target."
+          },
+          {
+            "type": "paragraph",
+            "text": "In reviewed gameplay, collecting the cheese triggers GOT IT! and RUN HOME. You are still on the escape leg at this point. Turn toward home and keep the return route clear of cats. The on-screen prompt for your device takes priority over any PC or mobile control shown in a recording."
+          },
+          {
+            "type": "image",
+            "asset": "public/shot-carry.webp",
+            "alt": "Carry the cheese back when the RUN HOME prompt appears.",
+            "caption": "Carry the cheese back when the RUN HOME prompt appears.",
+            "width": 1036,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "id": "return",
+        "title": "2. Finish the return and check your hotbar",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The reviewed successful return produces STOLEN! and In your hotbar. Check for that completion message and the cheese item before moving to the next step. Picking up a cheese and successfully returning it are separate milestones."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you arrive home with no cheese available, first check whether the return completed and whether you selected the recovered item. The footage does not establish a universal caught penalty, so this guide does not promise that every failed raid preserves your haul."
+          }
+        ]
+      },
+      {
+        "id": "place",
+        "title": "3. Put the cheese in a base slot",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Select the recovered cheese from your hotbar, approach a vacant circle in your base and use Place. A reviewed example shows Aged Parmesan held beside a TAP Place prompt. Once placed, inspect the item for its ripening countdown."
+          },
+          {
+            "type": "paragraph",
+            "text": "Training is a useful activity while a timer runs. Keep the next raid manageable for your current speed and return to inspect the cheese when it is ready. Exact starting durations vary by item and remain unverified here."
+          }
+        ]
+      },
+      {
+        "id": "deploy",
+        "title": "4. Open a ready cheese and deploy its mouse",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The game advertises ripening cheese to unwrap rare finds and add mice to your crew. Reviewed footage shows an Open prompt on cheese at the base and a Deploy step for the revealed mouse. Finish those interactions instead of assuming the initial return automatically adds an earning mouse."
+          },
+          {
+            "type": "list",
+            "ordered": true,
+            "items": [
+              "Recover a cheese and finish the run home.",
+              "Select it from your hotbar and place it at your base.",
+              "Read its timer and return when ready.",
+              "Open it, inspect the mouse and deploy it.",
+              "Check the income label and collect stored earnings at the Cheese Bin."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ripening",
+    "path": "/guides/cheese-ripening/",
+    "title": "Cheese Ripening: Placement, Timers and Opening",
+    "description": "Start the ripening timer correctly, read remaining time and avoid mistaking a paid shortcut for the normal opening step.",
+    "icon": "🧀",
+    "sections": [
+      {
+        "id": "place",
+        "title": "Place the recovered cheese at home",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A cheese that has reached your hotbar still needs a base position. Equip the cheese, stand beside a vacant base circle and use its Place interaction. Aged Parmesan is visible in the reviewed example. Check the item in the world afterward to confirm that placement succeeded."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the item remains equipped, step closer to a free circle and inspect the prompt. A carried cheese and a placed cheese represent different stages of progression. Do not start a waiting-time estimate until the game actually shows a ripening item or countdown."
+          },
+          {
+            "type": "image",
+            "asset": "public/shot-place.webp",
+            "alt": "Select the recovered cheese and use Place beside an open base slot.",
+            "caption": "Select the recovered cheese and use Place beside an open base slot.",
+            "width": 1036,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "Read the timer on the specific cheese",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "One recorded base cheese shows COMMON MOUSE and a 0:09 countdown. Another item shows RIPE TOMORROW MORNING and 12h49m remaining. Those are snapshots of remaining time on two items. They cannot establish a fixed duration for every cheese."
+          },
+          {
+            "type": "paragraph",
+            "text": "The interface includes Open and a paid Instant Ripen option. Read the full prompt and any purchase dialog before choosing a shortcut. A video editing transition does not prove how long normal ripening took. Use the live countdown for your own item."
+          },
+          {
+            "type": "image",
+            "asset": "public/shot-open.webp",
+            "alt": "Read the remaining timer before opening a ripening cheese.",
+            "caption": "Read the remaining timer before opening a ripening cheese.",
+            "width": 1036,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "id": "result",
+        "title": "Inspect the result before moving on",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The official description connects ripening with rare finds and new mice. When a cheese is ready, use its opening interaction, read the revealed mouse and complete any deployment step. Then compare the deployed income label with the mice already in your crew."
+          },
+          {
+            "type": "paragraph",
+            "text": "A complete cheese-to-mouse reward table and current drop odds are unavailable in the verified material. No cheese on this page is guaranteed to produce Muscle Mouse or another named rare mouse. If you are targeting a collection entry, check the current in-game Index before committing to a route."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mice",
+    "path": "/guides/mice-and-money/",
+    "title": "Mice and Money: Deploy, Collect and Upgrade",
+    "description": "Read mouse income labels, collect stored cash and approach base upgrades with the right expectations.",
+    "icon": "💰",
+    "sections": [
+      {
+        "id": "deploy",
+        "title": "Turn a ripened cheese into an active mouse",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Recovering and ripening cheese leads to new mice for your crew. After opening a cheese, finish the deployment interaction and check your base for the mouse. The developer currently advertises 104 mice to collect, including the legendary Muscle Mouse."
+          },
+          {
+            "type": "paragraph",
+            "text": "That advertised collection count does not provide a full published roster or a guaranteed route to each mouse. We have not verified a complete collection list, rarity ladder or probability table. Avoid judging an unfamiliar mouse solely from an invented tier list."
+          }
+        ]
+      },
+      {
+        "id": "collect",
+        "title": "Read per-minute income, then collect stored cash",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Deployed mice in the reviewed base have individual income labels. Recorded examples include SCRAP MOUSE +$63/min and MOP MOUSE +$482/min. The nearby CHEESE BIN displays stored cash and a COLLECT pad."
+          },
+          {
+            "type": "paragraph",
+            "text": "Use the labels to compare your current mice in the same account state, then step onto or interact with the collection area using the live prompt. Income rates in a progressed recording can reflect upgrades or other modifiers. They should not be treated as permanent base stats for every player."
+          },
+          {
+            "type": "image",
+            "asset": "public/shot-income.webp",
+            "alt": "Mouse labels show income per minute; collect stored cash at the Cheese Bin.",
+            "caption": "Mouse labels show income per minute; collect stored cash at the Cheese Bin.",
+            "width": 1036,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "id": "upgrade",
+        "title": "Check the Mice upgrade sign before spending",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The base has an UPGRADE MICE LV sign with an Upgrade action. A later recording shows a $96.0K price in that player’s state. Read the level, price and description currently displayed to you, then compare the result after one upgrade."
+          },
+          {
+            "type": "paragraph",
+            "text": "The visible label establishes a mouse-level upgrade. It does not establish a mouse-capacity expansion or prove an exact universal upgrade formula. Keep enough cash for the next useful step in your own loop, and use current UI information to decide between mouse progression and training equipment."
+          }
+        ]
+      },
+      {
+        "id": "compare",
+        "title": "A practical comparison routine",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": true,
+            "items": [
+              "Collect stored cash so your available balance is clear.",
+              "Read the income on deployed mice and note any bottleneck.",
+              "Inspect the current mouse upgrade price and description.",
+              "Check whether speed is limiting successful cheese returns.",
+              "Choose one upgrade, verify its displayed result, then repeat the loop."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "speed",
+    "path": "/guides/speed-wheel-and-trails/",
+    "title": "Speed Guide: Training Wheel, Upgrades and Trails",
+    "description": "Train during ripening, compare Treadmill multipliers and keep displayed speed separate from training gain.",
+    "icon": "🏃",
+    "sections": [
+      {
+        "id": "wheel",
+        "title": "Train on the wheel while cheese ripens",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The developer explicitly identifies wheel training as the way to get faster and raid deeper, harder levels. Reviewed gameplay shows a mouse running continuously on a wheel while the Speed total increases. An E Get off prompt appears in the PC clip."
+          },
+          {
+            "type": "paragraph",
+            "text": "Get onto a wheel you can use and check that the speed counter actually rises. Remain on it while a cheese timer runs, then leave with your current device prompt when you are ready for another raid. A high-level clip shows +3.5K flashes, but that is one progressed player’s gain and cannot be applied to a fresh account."
+          },
+          {
+            "type": "image",
+            "asset": "public/shot-training.webp",
+            "alt": "Train on the wheel and watch the speed total increase.",
+            "caption": "Train on the wheel and watch the speed total increase.",
+            "width": 1184,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "id": "upgrade",
+        "title": "Inspect wheel upgrades in your current state",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The reviewed longer recording includes a training-wheel Upgrade control. Inspect the current price and displayed improvement before spending. After an upgrade, train again and compare the actual gain shown on screen."
+          },
+          {
+            "type": "paragraph",
+            "text": "No verified complete wheel price ladder is available. Treat upgrades as a response to slow returns or a route you cannot yet run comfortably, and recheck the change rather than assuming every level adds the same amount."
+          }
+        ]
+      },
+      {
+        "id": "trails",
+        "title": "Compare the Trail Shop Treadmill multiplier",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Trail Shop presents cosmetic trails with TREADMILL multipliers. The reviewed screen shows Dust Puff, Crumb Trail and Cheese Dust already owned. These cards let you compare the listed training multiplier without inventing a complete shop ranking."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Trail",
+              "Recorded rarity",
+              "Recorded Treadmill multiplier"
+            ],
+            "rows": [
+              [
+                "Dust Puff",
+                "Common",
+                "×1"
+              ],
+              [
+                "Crumb Trail",
+                "Uncommon",
+                "×1.5"
+              ],
+              [
+                "Cheese Dust",
+                "Rare",
+                "×2"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The same screen separates YOUR SPEED into base speed plus index speed and also displays TREADMILL ×2.5 in its header. The three visible cards alone do not explain how that header value was obtained. Do not add or multiply every visible number into a made-up speed formula. Read your equipped state and check your wheel gain after changing a trail."
+          },
+          {
+            "type": "image",
+            "asset": "public/shot-trails.webp",
+            "alt": "Compare the Treadmill multiplier on each Trail Shop card.",
+            "caption": "Compare the Treadmill multiplier on each Trail Shop card.",
+            "width": 1036,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "id": "balance",
+        "title": "Choose a training goal tied to a real route",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A useful training target is a cheese route that you can complete consistently. Return from a manageable raid, start its ripening timer, train, then try the next stretch with a clear escape path. This keeps training connected to a specific improvement in your runs."
+          },
+          {
+            "type": "paragraph",
+            "text": "Exact level unlock requirements and universal speed thresholds are not verified. If a deeper route still feels unsafe, keep using a reliable cheese route while improving speed and checking current entry signs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "areas",
+    "path": "/guides/areas-and-night-cheese/",
+    "title": "Areas and Night Cheese: Planning Safer Raids",
+    "description": "Prepare a return route for deeper raids and understand what is confirmed about the two rare night cheeses.",
+    "icon": "🌙",
+    "sections": [
+      {
+        "id": "levels",
+        "title": "Deeper raids still end with the run home",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The official description links higher speed with deeper, harder levels. Later reviewed gameplay shows a pantry-like corridor, another cheese pickup, RUN HOME and a nearby cat. The core return requirement remains relevant as the setting changes."
+          },
+          {
+            "type": "paragraph",
+            "text": "Look back along your return route before committing to a distant cheese. If your current training makes escape unreliable, use a shorter successful loop to build your mouse crew and speed. The recording does not establish numbered floor unlocks, exact cat speeds or a complete map."
+          },
+          {
+            "type": "image",
+            "asset": "public/shot-pantry.webp",
+            "alt": "A deeper raid still requires a safe return past the cats.",
+            "caption": "A deeper raid still requires a safe return past the cats.",
+            "width": 1036,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "id": "night",
+        "title": "Two rare cheeses are advertised each night",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The developer currently says that two RARE CHEESES spawn every night and encourages players to get there first. That supports watching for the night cycle and preparing to move when the game announces or shows the new opportunities."
+          },
+          {
+            "type": "paragraph",
+            "text": "The reviewed material does not verify their exact spawn locations, a fixed real-world schedule, the full night duration or whether all servers share the same timing. Use your server’s current state. Do not plan around an invented Hong Kong or UTC spawn timetable."
+          }
+        ]
+      },
+      {
+        "id": "prepare",
+        "title": "Prepare before the opportunity appears",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": true,
+            "items": [
+              "Finish or safely pause your current cheese run.",
+              "Start available ripening timers at home.",
+              "Train to improve the route you intend to use.",
+              "Watch the current server for the night transition or rare-cheese indication.",
+              "Choose a route with a return you can complete and re-evaluate if cats block it."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "A rare label does not by itself verify a guaranteed mouse reward. Keep the cheese, ripening result and eventual mouse as separate stages, and check the actual result after opening."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "codes",
+    "path": "/codes/",
+    "title": "Steal a Cheese Codes: Current Verification Status",
+    "description": "No verified active codes or confirmed redemption menu are available in our checked material as of 7 November 2026.",
+    "icon": "🎟️",
+    "sections": [
+      {
+        "id": "status",
+        "title": "No verified active codes to list",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "We have not verified an active code for Steal a Cheese [From Cats] by Indecision Studios. The current official game description and reviewed gameplay do not establish a redemption interface or a code-and-reward pair. This page therefore contains no copied code strings presented as working."
+          },
+          {
+            "type": "paragraph",
+            "text": "This status records the evidence available on 7 November 2026. It does not prove that the developer can never add codes or that an unannounced code cannot exist. A new code needs a reliable source, the exact spelling, a stated reward and a current verification status."
+          }
+        ]
+      },
+      {
+        "id": "check",
+        "title": "Where to check for future announcements",
+        "blocks": [
+          {
+            "type": "list",
+            "ordered": true,
+            "items": [
+              "Open the official Roblox experience from this site’s Play link.",
+              "Confirm the developer is Indecision Studios.",
+              "Read the current game description and developer announcements.",
+              "If a code is announced, inspect the live game for the named redemption menu.",
+              "Check the reward and result before describing it as active."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Do not paste your Roblox password, session cookie or verification code into a third-party reward page. A legitimate in-game code redemption does not require handing those account credentials to this wiki."
+          }
+        ]
+      },
+      {
+        "id": "identity",
+        "title": "Avoid results for a different game",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The title overlaps with an older tabletop game and several cheese-themed Roblox experiences. Our guide covers Place ID 119347266143113 and Universe ID 10767755325. Instructions for another game’s codes menu may be completely unrelated."
+          },
+          {
+            "type": "paragraph",
+            "text": "Until a real redemption interface is verified, there are no button-by-button redemption directions or fabricated menu screenshots on this page. Start with the beginner guide if you want a confirmed route to progression today."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "about",
+    "path": "/about/",
+    "title": "About This Steal a Cheese Wiki",
+    "description": "How this independent guide verifies game facts, screenshots and changing information.",
+    "icon": "ℹ️",
+    "sections": [
+      {
+        "id": "scope",
+        "title": "Scope and game identity",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This independent fan guide covers Steal a Cheese 🧀 [From Cats], developed by Indecision Studios on Roblox. The linked official experience has Place ID 119347266143113 and Universe ID 10767755325. This site is not affiliated with Roblox or the developer."
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "title": "Evidence and corrections",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Core mechanics and advertised collection information are checked against the official Roblox game description. Gameplay instructions and screenshots are checked against the actual game frames in a reviewed recording, with source and timestamp bindings retained in our editorial records. Community recordings are observations, not claims that this website personally tested the game."
+          },
+          {
+            "type": "paragraph",
+            "text": "Recorded values such as income, countdowns, upgrade prices and training multipliers reflect the account and version in that footage. We separate them from universal rules. Missing complete rosters, probability tables, map requirements and codes remain unverified instead of being filled with invented values."
+          }
+        ]
+      },
+      {
+        "id": "updated",
+        "title": "Review date and changing information",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The initial editorial review was completed on 7 November 2026. Roblox experiences update frequently. Use the current game prompt and purchase confirmation when it differs from a dated example in this guide. Public first-party links are provided in the footer."
+          }
+        ]
+      }
+    ],
+    "utility": true
+  },
+  {
+    "id": "privacy",
+    "path": "/privacy/",
+    "title": "Privacy Policy",
+    "description": "How this independent guide uses analytics, advertising and ordinary browser storage.",
+    "icon": "🔒",
+    "sections": [
+      {
+        "id": "analytics",
+        "title": "Analytics",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This website uses Google Analytics 4 to understand aggregate page usage, traffic sources and device categories. Google may receive ordinary browser and request information through its analytics service. Do not submit account credentials or private information through this website."
+          }
+        ]
+      },
+      {
+        "id": "advertising",
+        "title": "Advertising",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This website may display Adsterra advertisements after its scheduled advertising launch. Advertising providers may use cookies, identifiers and request information to deliver or measure ads. Availability depends on your region, browser settings and the provider. External websites have their own privacy policies."
+          }
+        ]
+      },
+      {
+        "id": "controls",
+        "title": "Your choices",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "You can manage cookies and website storage in your browser, use browser privacy controls and block third-party requests. This guide has no account sign-in, payment form or Roblox credential collection. Its links to Roblox open the official service."
+          }
+        ]
+      }
+    ],
+    "utility": true
+  }
+]

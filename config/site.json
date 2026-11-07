@@ -1,0 +1,19 @@
+{
+  "name": "Steal a Cheese Wiki",
+  "gameName": "Steal a Cheese [From Cats]",
+  "domain": "www.stealacheese.wiki",
+  "url": "https://www.stealacheese.wiki",
+  "gameUrl": "https://www.roblox.com/games/119347266143113/Steal-a-Cheese",
+  "universeId": 10767755325,
+  "placeId": 119347266143113,
+  "measurementId": "G-RR66FXV95T",
+  "firstPublishedAt": null,
+  "monetization": {
+    "mode": "off",
+    "hosts": [
+      "www.stealacheese.wiki"
+    ],
+    "enableAt": null,
+    "units": {}
+  }
+}
