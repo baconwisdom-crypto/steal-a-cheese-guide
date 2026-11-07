@@ -77,7 +77,8 @@
           }
         ]
       }
-    ]
+    ],
+    "seoTitle": "Steal a Cheese Beginner Guide | First Mouse"
   },
   {
     "id": "ripening",
@@ -144,7 +145,8 @@
           }
         ]
       }
-    ]
+    ],
+    "seoTitle": "Steal a Cheese Ripening Guide | Timers & Opening"
   },
   {
     "id": "mice",
@@ -220,7 +222,8 @@
           }
         ]
       }
-    ]
+    ],
+    "seoTitle": "Steal a Cheese Mice Guide | Income & Upgrades"
   },
   {
     "id": "speed",
@@ -326,7 +329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "seoTitle": "Steal a Cheese Speed Guide | Wheels & Trails"
   },
   {
     "id": "areas",
@@ -392,7 +396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "seoTitle": "Steal a Cheese Night Cheese & Area Guide"
   },
   {
     "id": "codes",
@@ -450,7 +455,8 @@
           }
         ]
       }
-    ]
+    ],
+    "seoTitle": "Steal a Cheese Codes | November 2026"
   },
   {
     "id": "about",
@@ -494,7 +500,8 @@
         ]
       }
     ],
-    "utility": true
+    "utility": true,
+    "seoTitle": "About | Steal a Cheese Wiki"
   },
   {
     "id": "privacy",
@@ -534,6 +541,7 @@
         ]
       }
     ],
-    "utility": true
+    "utility": true,
+    "seoTitle": "Privacy Policy | Steal a Cheese Wiki"
   }
 ]
