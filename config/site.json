@@ -7,13 +7,13 @@
   "universeId": 10767755325,
   "placeId": 119347266143113,
   "measurementId": "G-RR66FXV95T",
-  "firstPublishedAt": null,
+  "firstPublishedAt": "2026-11-07T04:53:40.626137+00:00",
   "monetization": {
-    "mode": "off",
+    "mode": "scheduled",
     "hosts": [
       "www.stealacheese.wiki"
     ],
-    "enableAt": null,
+    "enableAt": "2026-11-09T04:53:40.626137+00:00",
     "units": {
       "native": {
         "scriptUrl": "https://bicea.org/21/9a24a59429ac19b1ee016f12967a642c",
